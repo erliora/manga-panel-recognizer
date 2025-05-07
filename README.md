@@ -64,8 +64,5 @@ python panel_splitter.py input/ --output output/ --magiv2 --rtl --padding 10
   - Tune `--canny1`, `--canny2`, and `--min_area`.
 
 ## Credits
-- [MagiV2](https://github.com/ragavsachdeva/magi) by Ragav Sachdeva
+- [MagiV2](https://github.com/ragavsachdeva/magi) by Ragav Sachdeva and Gyungin Shin and Andrew Zisserman
 - OpenCV, PyTorch, Transformers, PIL
-
-## License
-MIT 
